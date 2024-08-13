@@ -1,5 +1,5 @@
 @echo off
-:: Enhanced Batch Script for Installing NLTK Version 3.8.1
+:: Enhanced Batch Script for Installing NLTK Version 3.8.2
 
 :: Title of the command prompt window
 title NLTK Installation Script
@@ -22,13 +22,13 @@ if %ERRORLEVEL% NEQ 0 (
     exit /b
 )
 
-:: Install NLTK version 3.8.1
-echo Installing NLTK version 3.8.1...
-pip install nltk==3.8.1
+:: Install NLTK version 3.8.2
+echo Installing NLTK version 3.8.2...
+pip install nltk==3.8.2
 
 :: Check if the installation was successful
 if %ERRORLEVEL% EQU 0 (
-    echo NLTK version 3.8.1 installed successfully!
+    echo NLTK version 3.8.2 installed successfully!
 ) else (
     echo Failed to install NLTK. Please check the error messages above.
 )
