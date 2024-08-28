@@ -57,6 +57,4 @@ You can install all dependencies via the `requirements.txt` file provided.
 - On launching the application, you'll be prompted to either load an existing profile or create a new one.
 - Customize your experience by changing the theme, font, and adding custom responses or categories.
 - Save your profile to retain your settings for future sessions.
-
-## File Structure
-
+-----
