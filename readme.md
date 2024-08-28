@@ -42,6 +42,7 @@ You can install all dependencies via the `requirements.txt` file provided.
     ```
     pip install -r requirements.txt
     ```
+    - or you can use the `install_nltk.bat` to install the Dependencies
 
 4. **Run the Application**:
 
