@@ -10,6 +10,12 @@ Welcome to the advanced Magic 8 Ball application! This application provides a fu
 - **Advanced Category Management**: Create custom categories and add or manage responses within them.
 - **Sentiment Analysis**: Uses sentiment analysis to determine the response category (positive, neutral, negative).
 
+ ### If you dont have a pet python here is a couple below:
+- **YOU ONLY NEED ONLY VERSION OF PYTHON TO RUN THIS !!**
+- [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+- [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
+- [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
+
 ## Requirements
 
 The application is built with Python and requires the following libraries:
