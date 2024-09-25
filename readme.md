@@ -1,3 +1,8 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 # Magic 8 Ball Application
 
 Welcome to the advanced Magic 8 Ball application! This application provides a fun and interactive way to get answers to your questions with a highly customizable and personalized experience. You can create multiple profiles, manage custom responses, change themes and fonts, and even add new response categories.
