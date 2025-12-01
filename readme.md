@@ -2,7 +2,10 @@
 
 If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
 
-- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 
 # Magic 8 Ball Application
 
@@ -18,9 +21,9 @@ Welcome to the advanced Magic 8 Ball application! This application provides a fu
 
  ### If you dont have a pet python here is a couple below:
 - **YOU ONLY NEED ONLY VERSION OF PYTHON TO RUN THIS !!**
-- [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+
 - [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
-- [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
+
 
 ## Requirements
 
@@ -70,3 +73,4 @@ You can install all dependencies via the `requirements.txt` file provided.
 - Customize your experience by changing the theme, font, and adding custom responses or categories.
 - Save your profile to retain your settings for future sessions.
 -----
+
